@@ -1,0 +1,9 @@
+Parabéns, você chegou no inferno.
+O diabo aparece na tua frente e fala : "Bem vindo ao inferno.
+Deixa eu ver..." - magicamente aparece um pergaminho na mão dele e um óculos de leitura no rosto dele.
+"Ah , aqui está . Você veio para cá pq se suicidou e isso é um pecado ou algo assim."
+
+Opções de fala :
+1. Quem é você caralho? - /aventura7
+2 .Undaia, undaia tata  - /aventura8
+3. Tá... e o que eu faço agora??? - /aventura312

@@ -1,0 +1,6 @@
+.Entrando no castelo você vê um hall de entrada muito grande. Seguindo um tapete vermelho em frente há uma pequena escadinha. Em cima dessa escada há um trono e sentado naquele trono você vê um rei. Suas vestes escondem seu corpo e sua pesada coroa esconde seu corpo. Você vê dois cavaleiros em armaduras metálicas ao lado dele. Você vê também duas portas , uma na esquerda e uma na direita.
+
+Opções  :
+1. Porta  da esquerda - /aventura10
+2. Porta  da direita- /aventura11
+3.  Se ajoelhar diante do rei -  /aventura12

@@ -1,0 +1,8 @@
+COMEÇO DA AVENTURA
+Você está de frente para um penhasco
+Dar a volta  - /aventura2
+Pular do penhasco  - /aventura3
+
+
+//Isso  é uma aventura . Pra jogar escolha a opção e vá para a página equivalente do dontpad. Você pode ajudar a conitnuar a história , criando mais opções
+//Essa é a versão txt . Ignore a parte aventura e va para o numero equivalente. Exemplo : "aventura3 -> pasta : "3" "

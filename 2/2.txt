@@ -1,0 +1,5 @@
+Você vê um castelo enorme na sua frente , cercado pela mata 
+
+Dar a volta - /aventura
+Entrar no Castelo. - /aventura4
+Correr pro meio da mata -  /aventura5
